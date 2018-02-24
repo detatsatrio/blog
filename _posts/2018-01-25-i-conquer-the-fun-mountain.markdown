@@ -28,11 +28,11 @@ Semakin lama berjalan keringat mulai bercucuran dan cuaca mulai terik walaupun d
 
 ## Ramah Tamah Penduduk
 
-![Penduduk Sekitar]({{site.baseurl}}/assets/img/DSCF1603.jpg)
+![Penduduk Sekitar]({{site.baseurl}}/assets/img/1603.jpg)
 
 Tak lama kami melewati spot yang unik dikelilingi pepohonan yang lumayan tinggi dan tumbuh berjarak seolah-olah sengaja untuk tetap rindang. Karena spot yang fotogenic, mulailah sang fotografer handal kami beraksi.
 
-![Nice Spot]({{site.baseurl}}/assets/img/DSCF1616.jpg)
+![Nice Spot]({{site.baseurl}}/assets/img/1616.jpg)
 
 Sampailah kami di Guber hut. Beristirahat sejenak melepas lelah dan kami mulai bimbang apakah akan mendirikan tenda disini atau lanjut ke Pondok Saladah. Dengan pertimbangan kami jika kami disini kami memiliki tempat spot yang bagus untuk melihat sunrise besok pagi. Setelah berunding akhirnya kami memutuskan untuk mendirikan tenda di Pondok Saladah.
 
@@ -44,7 +44,7 @@ Sesampainya di Pondok Saladah, Beberapa tenda sudah ada berdiri dan kami menuju 
 
 ## Cooking Time
 
-![Cooking Time]({{site.baseurl}}/assets/img/DSCF1646.jpg)
+![Cooking Time]({{site.baseurl}}/assets/img/1646.jpg)
 
 Dari awal kami beristirahat di warung pertama kata "Omen" sering jadi topik kami karna mereka selalu merugikan pendaki di malam hari. Omen merupakan sebutan gerombolan babi hutan, Saat malam tiba mereka mulai mencari makan dan tidak jarang merusak tenda pendaki karna mencari makanan di dalam tenda. Oleh karena itu, penduduk dan penjaga selalu memberi "wejangan" ke pendaki yang mendirikan tenda untuk menaruh semua logistik di atas pohon atau di gantung minimal 2 meter. Walaupun sudah begitu tetap saja ada yang jadi korban. Sekitar jam 10an, terdengarlah suaranya teriakan cewe-cewe yang jadi korbannya "Omen". Tendanya di seruduk sampai robek, mungkin omennya tau ceweknya cakep wkwk.
 
