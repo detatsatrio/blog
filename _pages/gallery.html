@@ -3,18 +3,41 @@ layout: home-page
 title: Gallery
 permalink: /gallery/
 ---
-<ol class="post-card-box clearfix">
-  {% for gallery in paginator.galleries %}
-  <li>
-    <div class="post-card">
-      <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
-      </a>
-
-      <div class="post-card-body">
-        <a href="{{post.url | prepend: site.baseurl}}" class="post-card-link"><h3 class="post-card-title">{{post.title}}</h3></a>
-      </div>
-
-    </div>
-  </li>
-  {% endfor %}
-</ol>
+<div id="lightgallery" style="padding-top: 10">
+  <a href="{{site.baseurl}}/assets/img/1603.jpg">
+      <img src="{{site.baseurl}}/assets/img/1603.jpg" width="200"/>
+  </a>
+  <a href="{{site.baseurl}}/assets/img/1616.jpg">
+      <img src="{{site.baseurl}}/assets/img/1616.jpg" width="200"/>
+  </a>
+  <a href="{{site.baseurl}}/assets/img/1603.jpg">
+      <img src="{{site.baseurl}}/assets/img/1603.jpg" width="200"/>
+  </a>
+  <a href="{{site.baseurl}}/assets/img/1616.jpg">
+      <img src="{{site.baseurl}}/assets/img/1616.jpg" width="200"/>
+  </a>
+  <a href="{{site.baseurl}}/assets/img/1603.jpg">
+      <img src="{{site.baseurl}}/assets/img/1603.jpg" width="200"/>
+  </a>
+  <a href="{{site.baseurl}}/assets/img/1616.jpg">
+      <img src="{{site.baseurl}}/assets/img/1616.jpg" width="200"/>
+  </a>
+  <a href="{{site.baseurl}}/assets/img/1603.jpg">
+      <img src="{{site.baseurl}}/assets/img/1603.jpg" width="200"/>
+  </a>
+  <a href="{{site.baseurl}}/assets/img/1616.jpg">
+      <img src="{{site.baseurl}}/assets/img/1616.jpg" width="200"/>
+  </a>
+  <a href="{{site.baseurl}}/assets/img/1603.jpg">
+      <img src="{{site.baseurl}}/assets/img/1603.jpg" width="200"/>
+  </a>
+  <a href="{{site.baseurl}}/assets/img/1616.jpg">
+      <img src="{{site.baseurl}}/assets/img/1616.jpg" width="200"/>
+  </a>
+  <a href="{{site.baseurl}}/assets/img/1603.jpg">
+      <img src="{{site.baseurl}}/assets/img/1603.jpg" width="200"/>
+  </a>
+  <a href="{{site.baseurl}}/assets/img/1616.jpg">
+      <img src="{{site.baseurl}}/assets/img/1616.jpg" width="200"/>
+  </a>
+</div>
